@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GetCourseDetailsResponse xmlns="http://inzemamwebsite/courses"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://inzemamwebsite/courses course-details.xsd">
+<CourseDetails>
+<id>  123 </id>
+<name> firstCourse</name>
+
+<description> this is about soap web service using spring</description>
+
+</CourseDetails>
+
+
+</GetCourseDetailsResponse>
